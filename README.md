@@ -8,4 +8,4 @@
 
 ## React基础与特性
 
-  * [React.StrictMode](./React\React-Basic-Features/React.StrictMode.md) 
+  * [React.StrictMode](./React/React-Basic-Features/React.StrictMode.md) 
